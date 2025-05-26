@@ -1,0 +1,15 @@
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.deps.json
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.runtimeconfig.json
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.dll
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.AssemblyReference.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfoInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfo.cs
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.sourcelink.json
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.dll
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\refint\Sigma.Domain.dll
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll

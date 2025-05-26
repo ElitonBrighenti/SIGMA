@@ -1,0 +1,15 @@
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.deps.json
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.runtimeconfig.json
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.sourcelink.json
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\refint\Sigma.Infra.CrossCutting.dll
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.genruntimeconfig.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.dll
