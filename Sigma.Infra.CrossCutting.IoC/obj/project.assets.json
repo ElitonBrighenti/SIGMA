@@ -2568,19 +2568,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\forge\\.nuget\\packages\\": {}
+    "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
       "projectName": "Sigma.Infra.CrossCutting.IoC",
-      "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
-      "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\obj\\",
+      "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
+      "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2595,8 +2595,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
-              "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj"
+            "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
+              "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj"
             }
           }
         }

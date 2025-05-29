@@ -9,6 +9,6 @@ namespace Sigma.Application.Interfaces
         Task<bool> Inserir(ProjetoNovoDto model);
         Task<List<ProjetosDto>> BuscarTodos();
         Task ExcluirProjetoAsync(long id);
-        Task AtualizarProjetoAsync(int id, ProjetosDto dto);
+        Task AtualizarProjetoAsync(int id, AtualizaStatusDTo dto);
     }
 }

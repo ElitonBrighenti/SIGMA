@@ -2494,19 +2494,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\forge\\.nuget\\packages\\": {}
+    "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
       "projectName": "Sigma.Infra.Data",
-      "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\obj\\",
+      "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2521,8 +2521,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
-              "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj"
+            "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
+              "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj"
             }
           }
         }

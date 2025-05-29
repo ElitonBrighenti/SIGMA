@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.application\\dtos\\projetonovodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\dtos\\projetonovodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.application\\dtos\\projetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\dtos\\projetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eliton_brasilfone\\AppData\\Local\\SourceServer\\f76318f67dd157ea4b4faf874fea983c1aa7859e2e20427a5c67a02c37ce32bc\\Sigma.Application\\Mappers\\ProjetoMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563A0EE-9D3B-4620-9E08-82B46ADEFDAF}|Sigma.Domain\\Sigma.Domain.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.domain\\entities\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1563A0EE-9D3B-4620-9E08-82B46ADEFDAF}|Sigma.Domain\\Sigma.Domain.csproj|solutionrelative:sigma.domain\\entities\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.application\\services\\projetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\services\\projetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.application\\interfaces\\iprojetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\interfaces\\iprojetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Migrations\\20250529182719_AtualizacaoEntidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sigma.Infra.Data\\Migrations\\20250529182719_AtualizacaoEntidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563A0EE-9D3B-4620-9E08-82B46ADEFDAF}|Sigma.Domain\\Sigma.Domain.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.domain\\enums\\riscoprojeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1563A0EE-9D3B-4620-9E08-82B46ADEFDAF}|Sigma.Domain\\Sigma.Domain.csproj|solutionrelative:sigma.domain\\enums\\riscoprojeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.application\\mappers\\projetomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\mappers\\projetomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.application\\dtos\\atualizastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\dtos\\atualizastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\eliton_brasilfone\\documents\\sigma\\sigma.api\\controllers\\projetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\controllers\\projetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjetoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\AppData\\Local\\SourceServer\\f76318f67dd157ea4b4faf874fea983c1aa7859e2e20427a5c67a02c37ce32bc\\Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\SourceServer\\f76318f67dd157ea4b4faf874fea983c1aa7859e2e20427a5c67a02c37ce32bc\\Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\AppData\\Local\\SourceServer\\f76318f67dd157ea4b4faf874fea983c1aa7859e2e20427a5c67a02c37ce32bc\\Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\SourceServer\\f76318f67dd157ea4b4faf874fea983c1aa7859e2e20427a5c67a02c37ce32bc\\Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:44:29.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetoNovoDto.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Dtos\\ProjetoNovoDto.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Dtos\\ProjetoNovoDto.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Dtos\\ProjetoNovoDto.cs",
+              "RelativeToolTip": "Sigma.Application\\Dtos\\ProjetoNovoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:33:44.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250529182719_AtualizacaoEntidades.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Migrations\\20250529182719_AtualizacaoEntidades.cs",
+              "RelativeDocumentMoniker": "Sigma.Infra.Data\\Migrations\\20250529182719_AtualizacaoEntidades.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Migrations\\20250529182719_AtualizacaoEntidades.cs",
+              "RelativeToolTip": "Sigma.Infra.Data\\Migrations\\20250529182719_AtualizacaoEntidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:27:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Entities\\Projeto.cs",
+              "RelativeDocumentMoniker": "Sigma.Domain\\Entities\\Projeto.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Entities\\Projeto.cs",
+              "RelativeToolTip": "Sigma.Domain\\Entities\\Projeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:24:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RiscoProjeto.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Enums\\RiscoProjeto.cs",
+              "RelativeDocumentMoniker": "Sigma.Domain\\Enums\\RiscoProjeto.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Enums\\RiscoProjeto.cs",
+              "RelativeToolTip": "Sigma.Domain\\Enums\\RiscoProjeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:23:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjetoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "RelativeToolTip": "Sigma.Application\\Mappers\\ProjetoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:19:01.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetosDto.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "RelativeToolTip": "Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:14:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProjetoService.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "RelativeToolTip": "Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:59:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjetoController.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\Controllers\\ProjetoController.cs",
+              "RelativeDocumentMoniker": "Sigma.API\\Controllers\\ProjetoController.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\Controllers\\ProjetoController.cs",
+              "RelativeToolTip": "Sigma.API\\Controllers\\ProjetoController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:58:02.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjetoService.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Services\\ProjetoService.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Services\\ProjetoService.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Services\\ProjetoService.cs",
+              "RelativeToolTip": "Sigma.Application\\Services\\ProjetoService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:56:53.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtualizaStatusDTo.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "ToolTip": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "RelativeToolTip": "Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:55:33.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.API\\Sigma.API.csproj": {}
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\Sigma.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.API\\Sigma.API.csproj": {
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\Sigma.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.API\\Sigma.API.csproj",
+        "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\Sigma.API.csproj",
         "projectName": "Sigma.API",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.API\\Sigma.API.csproj",
-        "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.API\\obj\\",
+        "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\Sigma.API.csproj",
+        "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,14 +29,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj"
               },
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj"
               },
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj"
               }
             }
           }
@@ -94,17 +94,17 @@
         }
       }
     },
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj",
+        "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj",
         "projectName": "Sigma.Application",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj",
-        "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\obj\\",
+        "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj",
+        "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,11 +119,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj"
               },
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj"
               }
             }
           }
@@ -178,17 +178,17 @@
         }
       }
     },
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj",
         "projectName": "Sigma.Domain",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj",
-        "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\obj\\",
+        "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj",
+        "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -251,17 +251,17 @@
         }
       }
     },
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj": {
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
         "projectName": "Sigma.Infra.CrossCutting.IoC",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
-        "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\obj\\",
+        "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\Sigma.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -276,8 +276,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Application\\Sigma.Application.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Application\\Sigma.Application.csproj"
               }
             }
           }
@@ -340,17 +340,17 @@
         }
       }
     },
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj": {
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
         "projectName": "Sigma.Infra.CrossCutting",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -417,17 +417,17 @@
         }
       }
     },
-    "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj": {
+    "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
         "projectName": "Sigma.Infra.Data",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -442,8 +442,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
-                "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj"
+              "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj": {
+                "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Domain\\Sigma.Domain.csproj"
               }
             }
           }

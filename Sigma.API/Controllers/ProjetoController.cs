@@ -30,7 +30,7 @@ namespace Sigma.API.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(long id)
+        public async Task<IActionResult> Deletar(long id)
         {
             try
             {
@@ -42,8 +42,23 @@ namespace Sigma.API.Controllers
                 return BadRequest(new { message = ex.Message });
             }
         }
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody] ProjetosDto dto)
+
+        //[HttpPut("{id}")]
+        //public async Task<IActionResult> Put(int id, [FromBody] ProjetosDto dto)
+        //{
+        //    try
+        //    {
+        //        await _projetoService.AtualizarProjetoAsync(id, dto);
+        //        return NoContent();
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(new { message = ex.Message });
+        //    }
+        //}
+
+        [HttpPut("{id}/status")]
+        public async Task<IActionResult> AtualizarStatus(int id, [FromBody] AtualizaStatusDTo dto)
         {
             try
             {

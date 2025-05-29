@@ -44,13 +44,24 @@ namespace Sigma.Application.Services
 
             await _projetoRepository.ExcluirAsync(projeto);
         }
-        public async Task AtualizarProjetoAsync(int id, ProjetosDto dto)
+
+        //public async Task AtualizarProjetoAsync(int id, ProjetosDto dto)
+        //{
+        //    var projeto = await _projetoRepository.ObterPorIdAsync(id);
+        //    if (projeto == null)
+        //        throw new Exception("Projeto não encontrado");
+
+        //    projeto.Nome = dto.Nome;
+        //    projeto.Status = dto.Status;
+
+        //    await _projetoRepository.AtualizarAsync(projeto);
+        //}
+        public async Task AtualizarProjetoAsync(int id, AtualizaStatusDTo dto)
         {
             var projeto = await _projetoRepository.ObterPorIdAsync(id);
             if (projeto == null)
                 throw new Exception("Projeto não encontrado");
 
-            projeto.Nome = dto.Nome;
             projeto.Status = dto.Status;
 
             await _projetoRepository.AtualizarAsync(projeto);

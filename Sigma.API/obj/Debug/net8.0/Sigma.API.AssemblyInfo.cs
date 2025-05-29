@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sigma.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+886787b20c8f610bd5642bdd4e418981b798a523")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+612a339df998f0a2dc7678d02bf2b4159dc0480e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sigma.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sigma.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

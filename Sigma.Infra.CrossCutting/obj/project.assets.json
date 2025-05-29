@@ -2401,19 +2401,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\forge\\.nuget\\packages\\": {}
+    "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
       "projectName": "Sigma.Infra.CrossCutting",
-      "projectPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
-      "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\forge\\Desktop\\SIGMA\\Sigma.Infra.CrossCutting\\obj\\",
+      "projectPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj",
+      "packagesPath": "C:\\Users\\eliton_brasilfone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eliton_brasilfone\\Documents\\SIGMA\\Sigma.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eliton_brasilfone\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
