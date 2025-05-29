@@ -2,6 +2,7 @@
 using Sigma.Application.Dtos;
 using Sigma.Application.Interfaces;
 using Sigma.Domain.Dtos;
+using Sigma.Domain.Enums;
 
 namespace Sigma.API.Controllers
 {
@@ -28,6 +29,14 @@ namespace Sigma.API.Controllers
             var projetos = await _projetoService.BuscarTodos();
             return Ok(projetos);
         }
+
+        [HttpGet("filtro")]
+        public async Task<IActionResult> BuscarPorFiltro([FromQuery] string? nome, [FromQuery] StatusProjeto? status)
+        {
+            var projetos = await _projetoService.BuscarPorFiltro(nome, status);
+            return Ok(projetos);
+        }
+
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Deletar(long id)

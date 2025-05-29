@@ -28,6 +28,21 @@ namespace Sigma.Application.Services
             var projetos = await _projetoRepository.BuscarTodos();
             return _mapper.Map<List<ProjetosDto>>(projetos);
         }
+
+        public async Task<List<ProjetosDto>> BuscarPorFiltro(string? nome, StatusProjeto? status)
+        {
+            var projetos = await _projetoRepository.BuscarTodos();
+
+            if (!string.IsNullOrWhiteSpace(nome))
+                projetos = projetos.Where(p => p.Nome.Contains(nome, StringComparison.OrdinalIgnoreCase)).ToList();
+
+            if (status.HasValue)
+                projetos = projetos.Where(p => p.Status == status.Value).ToList();
+
+            return _mapper.Map<List<ProjetosDto>>(projetos);
+        }
+
+
         public async Task ExcluirProjetoAsync(long id)
         {
             var projeto = await _projetoRepository.ObterPorIdAsync(id);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sigma.Infra.CrossCutting.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+612a339df998f0a2dc7678d02bf2b4159dc0480e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bea87864b96015f86fe9917373ed6ad54bec053")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sigma.Infra.CrossCutting.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sigma.Infra.CrossCutting.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
