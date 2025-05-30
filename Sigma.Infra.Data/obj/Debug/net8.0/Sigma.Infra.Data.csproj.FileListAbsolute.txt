@@ -85,3 +85,4 @@ C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.Data\obj\Debug\net8.0\
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.Data\obj\Debug\net8.0\Sigma.Infra.Data.pdb
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.Data\obj\Debug\net8.0\Sigma.Infra.Data.genruntimeconfig.cache
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.Data\obj\Debug\net8.0\ref\Sigma.Infra.Data.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.Data\obj\Debug\net8.0\Sigma.Infra.Data.sourcelink.json

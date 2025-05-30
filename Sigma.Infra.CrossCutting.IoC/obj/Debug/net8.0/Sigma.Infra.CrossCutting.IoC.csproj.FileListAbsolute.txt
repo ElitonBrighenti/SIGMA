@@ -105,3 +105,4 @@ C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting.IoC\obj\D
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting.IoC\obj\Debug\net8.0\Sigma.Infra.CrossCutting.IoC.pdb
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting.IoC\obj\Debug\net8.0\Sigma.Infra.CrossCutting.IoC.genruntimeconfig.cache
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting.IoC\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.IoC.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting.IoC\obj\Debug\net8.0\Sigma.Infra.CrossCutting.IoC.sourcelink.json

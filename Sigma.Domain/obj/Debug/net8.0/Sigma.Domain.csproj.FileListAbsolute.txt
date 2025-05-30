@@ -70,3 +70,4 @@ C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\refi
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.sourcelink.json

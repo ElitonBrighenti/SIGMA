@@ -510,3 +510,4 @@ C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.API\obj\Debug\net8.0\refint\
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.API\obj\Debug\net8.0\Sigma.API.pdb
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.API\obj\Debug\net8.0\Sigma.API.genruntimeconfig.cache
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.API\obj\Debug\net8.0\ref\Sigma.API.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.API\obj\Debug\net8.0\Sigma.API.sourcelink.json

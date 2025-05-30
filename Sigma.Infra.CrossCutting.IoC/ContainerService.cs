@@ -27,6 +27,7 @@ namespace Sigma.Infra.CrossCutting.IoC
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
             services.AddScoped<IProjetoRepository, ProjetoRepository>();
+            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
             return services;
         }
 

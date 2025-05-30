@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using Sigma.Application.Dtos;
+using Sigma.Domain.Interfaces;
+using Sigma.Domain.Interfaces.Repositories;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -12,19 +14,23 @@ namespace Sigma.API.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IConfiguration _config;
+        private readonly IUsuarioRepository _usuarioRepository;
 
-        public AuthController(IConfiguration config)
+        public AuthController(IConfiguration config, IUsuarioRepository usuarioRepository)
         {
             _config = config;
+            _usuarioRepository = usuarioRepository;
         }
 
         [HttpPost("login")]
-        public IActionResult Login([FromBody] UserLoginDto login)
+        public async Task<IActionResult> Login([FromBody] UserLoginDto login)
         {
-            if (login.Username != "admin" || login.Password != "123")
+            var user = await _usuarioRepository.ObterPorLoginAsync(login.Username, login.Password);
+
+            if (user == null)
                 return Unauthorized("Usuário ou senha inválidos.");
 
-            var token = GenerateToken("admin", "Admin");
+            var token = GenerateToken(user.Username, user.Role);
             return Ok(new { token });
         }
 
