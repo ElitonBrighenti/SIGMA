@@ -1,0 +1,72 @@
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.deps.json
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.runtimeconfig.json
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.sourcelink.json
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\refint\Sigma.Infra.CrossCutting.dll
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.genruntimeconfig.cache
+C:\Users\forge\Downloads\sigma\Sigma.Infra.CrossCutting\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.deps.json
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.runtimeconfig.json
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.sourcelink.json
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\refint\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.genruntimeconfig.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Infra.CrossCutting\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.deps.json
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.runtimeconfig.json
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\refint\Sigma.Infra.CrossCutting.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.genruntimeconfig.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.deps.json
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.runtimeconfig.json
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.AssemblyReference.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfoInputs.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfo.cs
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\refint\Sigma.Infra.CrossCutting.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.genruntimeconfig.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.deps.json
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.runtimeconfig.json
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\refint\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.pdb
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\Sigma.Infra.CrossCutting.genruntimeconfig.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Infra.CrossCutting\obj\Debug\net8.0\ref\Sigma.Infra.CrossCutting.dll

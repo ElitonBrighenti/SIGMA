@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eCQct7yBq64nbVv0bHXNsVJO2+a6y0h6NrtXx59ppXg=",
+  "Source": "Sigma.API",
+  "BasePath": "_content/Sigma.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

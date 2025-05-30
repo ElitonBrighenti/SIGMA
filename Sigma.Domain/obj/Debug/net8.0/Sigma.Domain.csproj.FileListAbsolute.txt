@@ -1,0 +1,72 @@
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.deps.json
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.runtimeconfig.json
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.dll
+C:\Users\forge\Downloads\sigma\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.AssemblyReference.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfoInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfo.cs
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.sourcelink.json
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.dll
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\refint\Sigma.Domain.dll
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
+C:\Users\forge\Downloads\sigma\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.deps.json
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.runtimeconfig.json
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.AssemblyReference.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfoInputs.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfo.cs
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.sourcelink.json
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\refint\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
+C:\Users\eliton_brasilfone\Documents\SIGMA\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.deps.json
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.runtimeconfig.json
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.AssemblyReference.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfoInputs.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfo.cs
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\refint\Sigma.Domain.dll
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
+C:\Users\elito\Downloads\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.deps.json
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.runtimeconfig.json
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.pdb
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.AssemblyReference.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfoInputs.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfo.cs
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\refint\Sigma.Domain.dll
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
+H:\Meu Drive\ANALISE E DESENVOLVIMENTO DE SISTEMAS\3 SEMESTRE\ARQUITETURA DE SOFTWARE\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.deps.json
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.runtimeconfig.json
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\bin\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.AssemblyReference.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfoInputs.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.AssemblyInfo.cs
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\refint\Sigma.Domain.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.pdb
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\Sigma.Domain.genruntimeconfig.cache
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Domain\obj\Debug\net8.0\ref\Sigma.Domain.dll
