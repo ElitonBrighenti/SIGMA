@@ -1199,6 +1199,7 @@
           "AutoMapper": "13.0.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
           "Sigma.Domain": "1.0.0",
+          "Sigma.Infra.CrossCutting": "1.0.0",
           "Sigma.Infra.Data": "1.0.0"
         },
         "compile": {

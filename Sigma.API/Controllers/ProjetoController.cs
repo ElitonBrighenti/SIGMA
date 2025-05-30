@@ -19,9 +19,9 @@ namespace Sigma.API.Controllers
             _projetoService = projetoService;
         }
 
-        [Authorize]
+        [Authorize(Roles = "Admin")]
         [HttpPost]
-        [Route("inserir")]
+        [Route("cadastro")]
         public async Task<IActionResult> Inserir([FromBody] ProjetoNovoDto model)
         {
             return new JsonResult(await _projetoService.Inserir(model));
@@ -45,7 +45,7 @@ namespace Sigma.API.Controllers
             return Ok(projetos);
         }
 
-        [Authorize]
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}/deletar")]
         public async Task<IActionResult> Deletar(long id)
         {
@@ -60,7 +60,7 @@ namespace Sigma.API.Controllers
             }
         }
 
-        [Authorize]
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}/status")]
         public async Task<IActionResult> AtualizarStatus(int id, [FromBody] AtualizaStatusDTo dto)
         {

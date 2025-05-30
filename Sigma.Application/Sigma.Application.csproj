@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Sigma.Domain\Sigma.Domain.csproj" />
+    <ProjectReference Include="..\Sigma.Infra.CrossCutting\Sigma.Infra.CrossCutting.csproj" />
     <ProjectReference Include="..\Sigma.Infra.Data\Sigma.Infra.Data.csproj" />
   </ItemGroup>
 

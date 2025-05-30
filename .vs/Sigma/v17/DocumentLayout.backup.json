@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elito\\Downloads\\SIGMA-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.api\\controllers\\projetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\controllers\\projetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B3D280-97E3-4D17-8630-A838833A5A06}|Sigma.Infra.Data\\Sigma.Infra.Data.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.infra.data\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B3D280-97E3-4D17-8630-A838833A5A06}|Sigma.Infra.Data\\Sigma.Infra.Data.csproj|solutionrelative:sigma.infra.data\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.application\\dtos\\projetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\dtos\\projetosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.application\\interfaces\\iprojetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\interfaces\\iprojetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.api\\sigma.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B74A21E0-4CAC-4441-90B1-DED222089CA9}|Sigma.API\\Sigma.API.csproj|solutionrelative:sigma.api\\sigma.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.application\\services\\projetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\services\\projetoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|c:\\users\\elito\\downloads\\sigma-main\\sigma.application\\dtos\\atualizastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B89A0F-6113-477A-A7CB-3DA266B3EF7F}|Sigma.Application\\Sigma.Application.csproj|solutionrelative:sigma.application\\dtos\\atualizastatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjetosDto.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "RelativeToolTip": "Sigma.Application\\Dtos\\ProjetosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:34:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sigma.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sigma.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T01:28:46.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Program.cs",
+              "RelativeDocumentMoniker": "Sigma.API\\Program.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Program.cs",
+              "RelativeToolTip": "Sigma.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:42:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Sigma.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Sigma.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:41:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Infra.Data\\Repositories\\ProjetoRepository.cs",
+              "RelativeDocumentMoniker": "Sigma.Infra.Data\\Repositories\\ProjetoRepository.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Infra.Data\\Repositories\\ProjetoRepository.cs",
+              "RelativeToolTip": "Sigma.Infra.Data\\Repositories\\ProjetoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:19:35.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetoController.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Controllers\\ProjetoController.cs",
+              "RelativeDocumentMoniker": "Sigma.API\\Controllers\\ProjetoController.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Controllers\\ProjetoController.cs",
+              "RelativeToolTip": "Sigma.API\\Controllers\\ProjetoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:18:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Sigma.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\appsettings.json",
+              "RelativeToolTip": "Sigma.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T23:00:01.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLoginDTo.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Dtos\\UserLoginDTo.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Dtos\\UserLoginDTo.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Dtos\\UserLoginDTo.cs",
+              "RelativeToolTip": "Sigma.Application\\Dtos\\UserLoginDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:39:44.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProjetoService.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "RelativeToolTip": "Sigma.Application\\Interfaces\\IProjetoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:21:59.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sigma.API.csproj",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Sigma.API.csproj",
+              "RelativeDocumentMoniker": "Sigma.API\\Sigma.API.csproj",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.API\\Sigma.API.csproj",
+              "RelativeToolTip": "Sigma.API\\Sigma.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T22:47:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjetoService.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Services\\ProjetoService.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Services\\ProjetoService.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Services\\ProjetoService.cs",
+              "RelativeToolTip": "Sigma.Application\\Services\\ProjetoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:56:53.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AtualizaStatusDTo.cs",
+              "DocumentMoniker": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "RelativeDocumentMoniker": "Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "ToolTip": "C:\\Users\\elito\\Downloads\\SIGMA-main\\Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "RelativeToolTip": "Sigma.Application\\Dtos\\AtualizaStatusDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:55:33.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

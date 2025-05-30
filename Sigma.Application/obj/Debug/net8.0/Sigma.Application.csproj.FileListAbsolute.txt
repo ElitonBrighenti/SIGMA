@@ -96,3 +96,5 @@ C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Application\obj\Debug\net8.0
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Application\obj\Debug\net8.0\Sigma.Application.genruntimeconfig.cache
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Application\obj\Debug\net8.0\ref\Sigma.Application.dll
 C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Application\obj\Debug\net8.0\Sigma.Application.sourcelink.json
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Application\bin\Debug\net8.0\Sigma.Infra.CrossCutting.dll
+C:\Users\eliton_brasilfone\Desktop\SIGMA-main\Sigma.Application\bin\Debug\net8.0\Sigma.Infra.CrossCutting.pdb

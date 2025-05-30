@@ -9,7 +9,11 @@ namespace Sigma.Domain.Interfaces.Repositories
 {
     public interface IUsuarioRepository
     {
-        Task<Usuario?> ObterPorLoginAsync(string username, string password);
+        Task<Usuario?> ObterPorLoginAsync(string username, string passwordHash);
+        Task<Usuario?> ObterPorUsernameAsync(string username);
+        Task AdicionarAsync(Usuario usuario);
+        Task<IEnumerable<Usuario>> ListarTodosAsync();
+        Task RemoverAsync(long id);
     }
 
 }

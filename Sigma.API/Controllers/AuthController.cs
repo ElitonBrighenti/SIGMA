@@ -3,6 +3,7 @@ using Microsoft.IdentityModel.Tokens;
 using Sigma.Application.Dtos;
 using Sigma.Domain.Interfaces;
 using Sigma.Domain.Interfaces.Repositories;
+using Sigma.Infra.CrossCutting.Helpers;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -25,7 +26,8 @@ namespace Sigma.API.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] UserLoginDto login)
         {
-            var user = await _usuarioRepository.ObterPorLoginAsync(login.Username, login.Password);
+            var passwordHash = HashHelper.GerarHashMD5(login.Password);
+            var user = await _usuarioRepository.ObterPorLoginAsync(login.Username, passwordHash);
 
             if (user == null)
                 return Unauthorized("Usuário ou senha inválidos.");

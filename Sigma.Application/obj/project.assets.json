@@ -987,6 +987,20 @@
           "bin/placeholder/Sigma.Domain.dll": {}
         }
       },
+      "Sigma.Infra.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sigma.Infra.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sigma.Infra.CrossCutting.dll": {}
+        }
+      },
       "Sigma.Infra.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2530,6 +2544,11 @@
       "path": "../Sigma.Domain/Sigma.Domain.csproj",
       "msbuildProject": "../Sigma.Domain/Sigma.Domain.csproj"
     },
+    "Sigma.Infra.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../Sigma.Infra.CrossCutting/Sigma.Infra.CrossCutting.csproj",
+      "msbuildProject": "../Sigma.Infra.CrossCutting/Sigma.Infra.CrossCutting.csproj"
+    },
     "Sigma.Infra.Data/1.0.0": {
       "type": "project",
       "path": "../Sigma.Infra.Data/Sigma.Infra.Data.csproj",
@@ -2542,6 +2561,7 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.4",
       "Sigma.Domain >= 1.0.0",
+      "Sigma.Infra.CrossCutting >= 1.0.0",
       "Sigma.Infra.Data >= 1.0.0"
     ]
   },
@@ -2575,6 +2595,9 @@
           "projectReferences": {
             "C:\\Users\\eliton_brasilfone\\Desktop\\SIGMA-main\\Sigma.Domain\\Sigma.Domain.csproj": {
               "projectPath": "C:\\Users\\eliton_brasilfone\\Desktop\\SIGMA-main\\Sigma.Domain\\Sigma.Domain.csproj"
+            },
+            "C:\\Users\\eliton_brasilfone\\Desktop\\SIGMA-main\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\eliton_brasilfone\\Desktop\\SIGMA-main\\Sigma.Infra.CrossCutting\\Sigma.Infra.CrossCutting.csproj"
             },
             "C:\\Users\\eliton_brasilfone\\Desktop\\SIGMA-main\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\eliton_brasilfone\\Desktop\\SIGMA-main\\Sigma.Infra.Data\\Sigma.Infra.Data.csproj"
